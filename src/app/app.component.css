@@ -1,0 +1,22 @@
+.player .imgbox{
+    position: relative;
+    width: 100%;
+    height: 450px;
+}
+
+.player .imgbox img{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    /* border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px; */
+}
+
+.player  audio{
+    width: 100%;
+    outline: none;
+}
+
